@@ -52,3 +52,4 @@ for y, line in enumerate(text):
 
 print(text)
 print(total)
+
